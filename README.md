@@ -1,5 +1,5 @@
 # Experiments
-Experiments for practical
+Experiments for practical....
 Autor - Nency Sharma
 2025B01010654
 
