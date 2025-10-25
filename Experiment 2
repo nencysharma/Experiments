@@ -1,1 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <title>Sample News Website</title>
+    <!--Header-->
+    <h1 align="center"> Global Daily News</h1>
+    <p align="center"> Your Trusted Source for Latest Updates</p>
+    <hr>
+    <!--Navigation-->
+    <p align="center">
+    <a href="#world">World</a>
+    <a href="#sports">Sports</a>
+    <a href="#enetertainment">Entertainment</a>
+    <a href="#prodcast">prodcast</a>
+    <a href="#contact">contact</a>
+    </p>
+    <hr>
+    <!--World News section-->
+    <h2 id="world">World News</h2>
+    <p>Today’s top headline: Global leaders meet to discuss climate change initiatives</p>
+    <img src="https://m.media-amazon.com/images/M/MV5BNGYwNDlmZDgtMDg1Yi00N2JmLTk0NzQtNWVkN2NiMTQxY2RlXkEyXkFqcGc@._V1_.jpg">
+    <p><a href="https://www.bbc.com/news"> Read More On BBC</a></p>
+    <hr>
+    <div class="section-title" style="margin-top:12px">
+<h2>Sports Update</h2>
+<div class="meta">Highlights</div>
+</div>
+<p>Highlights of yesterday’s football match with thrilling last-minute goals!</p>
+<div class="media">
+<!-- YouTube embed for Big Buck Bunny (example link) -->
+<iframe src="https://www.youtube.com/embed/aqz-KE-bpKQ" title="Big Buck Bunny 60fps 4K" allowfullscreen></iframe>
+</div>
 
+
+<hr />
+
+
+<div style="margin-top:12px">
+<h2>Entertainment Buzz</h2>
+<p>New movie trailer released today. Fans are excited!</p>
+</div>
+
+
+<hr />
+
+
+<div style="margin-top:12px">
+<h2>News Podcast</h2>
+<p>Listen to today’s top headlines:</p>
+<!-- audio placeholder -->
+<audio controls preload="none" aria-label="Top headlines podcast">
+<source src="" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+</section>
+
+
+<aside class="sidebar">
+<div class="card contact" aria-labelledby="contact-heading">
+<h3 id="contact-heading">Contact Us</h3>
+<div class="contact">
+<div><strong>Email:</strong> <a href="mailto:info@globalnews.com">info@globalnews.com</a></div>
+<div class="muted">Follow us on social media for real-time updates.</div>
+</div>
+</div>
+
+
+<div style="height:18px"></div>
+
+
+<div class="card" aria-hidden="true">
+<h3>Quick Links</h3>
+<ul>
+<li><a href="https://www.bbc.com/news" target="_blank" rel="noopener">BBC News</a></li>
+<li><a href="https://www.youtube.com/watch?v=aqz-KE-bpKQ" target="_blank" rel="noopener">Big Buck Bunny (YouTube)</a></li>
+</ul>
+</div>
+</aside>
+</main>
+
+
+<footer>
+<div>© 2025 Global Daily News</div>
+</footer>
+</div>
+
+
+
+
+
+
+</body>
+</html>
