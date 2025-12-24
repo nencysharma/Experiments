@@ -7,9 +7,7 @@
         <input type="date" id="checkinDate" name="checkinDate"><br><br>
         <label for="checkoutDate">Check-out Date:</label>
         <input type="date" id="checkoutDate" name="checkoutDate"><br><br>
-        <label for="roomType">Room Type:</label>
-        <select id="roomType" name="roomType">
-            <option value="Single Room">Single Room</option>
+        <label for="roomType">Room Type
             <!-- Add more options as needed -->
         </select><br><br>
         <label for="numberOfGuests">Number of Guests:</label>
