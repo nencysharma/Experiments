@@ -6,22 +6,7 @@
     <title>experiment 1</title>
 </head>
 <body>
-    <h1 style="text-align: center;"> B.Tech Computer Science-Couse Curriculum</h1>
-    <p style="text-align: center;"><b>Session:</b> 2025-2029 © ABES Engineering College Ghaziabad</p>
-    <hr>
-    <h2><b>Introduction</b></h2>
-    <br>
-    <h2>Semester 1 Subjects (Ordered List)</h2>
-     <ol>
-        <li>Mathematics-I</li>
-        <li>Physics</li>
-        <li>Basic Electrical Engineering</li>
-        <li>Programming in C</li>
-        <li>Engineering Drawing</li>
-        <li>Web Designing Workshop-I</li>
-        <li>Essential of AI</li>
-      </ol>
-      <h2>Programming Languages Covered (Unordered List)</h2>
+    ed List)</h2>
        <ul>
         <li>C</li>
         <li>C++</li>
