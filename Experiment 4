@@ -1,9 +1,5 @@
 
-    
-    <title>Hotel Room Booking Form</title>
-</head>
-<body>
-    <h2>Hotel Room Booking Form</h2>
+tel Room Booking Form</h2>
     <form>
         <label for="fullName">Full Name:</label>
         <input type="text" id="fullName" name="fullName"><br><br>
