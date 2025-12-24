@@ -42,7 +42,7 @@ button{
     background-color: rgb(55, 58, 130);
     color: beige;
     padding: 10px 20px;
-    border: none;
+    border: 100;
     border-radius: 5px;
 }
 
